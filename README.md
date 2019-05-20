@@ -1,5 +1,9 @@
 # All about
 
+## Books
+
+#### Python
+
 ## Articles
 
 <a href="https://habr.com/ru/post/432996">Немного внутренностей словарей в CPython (и PyPy)(+ video)</a>
@@ -22,4 +26,5 @@
 
 ## Quora
 
+#### Prep
 <a href="https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role">How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?</a>

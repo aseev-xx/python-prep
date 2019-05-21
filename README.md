@@ -56,3 +56,15 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 #### Prep
 <a href="https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role">How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?</a>
+
+
+### Stackoverflow
+
+Interesting questions and threads
+
+ - <a href="https://stackoverflow.com/questions/49081942/why-doesnt-python3s-print-statement-flush-output-when-end-keyword-is-specified">Why doesn't python3's print statement flush output when end keyword is specified?
+</a>
+
+    ```
+    print("Rewinding.......",end = '',flush=True)
+    ```

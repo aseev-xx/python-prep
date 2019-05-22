@@ -15,11 +15,11 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 #### SRE & DevOps
 
-<a href="https://landing.google.com/sre/sre-book/toc/index.html">Google: Site Reliability Engineering</a>
+[Google: Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
 
 #### Algorithm
 
-<a href="https://www.ozon.ru/context/detail/id/24903185">Алгоритмы. Вводный курс</a>
+[Алгоритмы. Вводный курс](https://www.ozon.ru/context/detail/id/24903185)
 
 
 ### Articles
@@ -67,8 +67,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 Interesting questions and threads
 
-* <a href="https://stackoverflow.com/questions/49081942/why-doesnt-python3s-print-statement-flush-output-when-end-keyword-is-specified">Why doesn't python3's print statement flush output when end keyword is specified?
-</a>
+
+* [Why doesn't python3's print statement flush output when end keyword is specified?](https://stackoverflow.com/questions/49081942/why-doesnt-python3s-print-statement-flush-output-when-end-keyword-is-specified)
 
 
         print("Rewinding.......",end = '',flush=True)

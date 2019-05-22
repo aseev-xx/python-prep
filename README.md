@@ -17,9 +17,16 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 <a href="https://landing.google.com/sre/sre-book/toc/index.html">Google: Site Reliability Engineering</a>
 
+#### Algorithm
+
+<a href="https://www.ozon.ru/context/detail/id/24903185">Алгоритмы. Вводный курс</a>
+
+
 ### Articles
 
 #### Python
+
+<a href="https://vovkd.github.io/gevent-tutorial/">Gevent для практикующего питониста (<a href="http://sdiehl.github.io/gevent-tutorial/">original</a>)</a>
 
 <a href="https://stackabuse.com/overview-of-async-io-in-python-3-7/">Overview of Async IO in Python 3.7</a>
 
@@ -34,37 +41,34 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 #### SRE & DevOps
 
+[Preparing the SRE interview (Balthazar)](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)
 
-<a href="https://blog.balthazar-rouberol.com/preparing-the-sre-interview">Preparing the SRE interview (Balthazar)</a>
-
-<a href="https://puncsky.com/hacking-the-software-engineer-interview">Hacking the Software Engineer Interview</a>
+[Hacking the Software Engineer Interview](https://puncsky.com/hacking-the-software-engineer-interview)
 
 
 
 
 ### Blogs
 
-<a href="https://jeffknupp.com/blog">Jeff Knupp. Everything I know about Python...</a>
+[Jeff Knupp. Everything I know about Python...](https://jeffknupp.com/blog)
 
 ### Youtube
 
-<a href="https://www.youtube.com/user/zaemiel">Олег Молчанов</a>
+[Олег Молчанов](https://www.youtube.com/user/zaemiel)
 
-<a href="https://www.youtube.com/watch?v=cKPlPJyQrt4">James Powell: So you want to be a Python expert? | PyData Seattle 2017</a>
+[James Powell: So you want to be a Python expert? | PyData Seattle 2017](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
 ### Quora
 
 #### Prep
-<a href="https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role">How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?</a>
-
+[How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?](https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role)
 
 ### Stackoverflow
 
 Interesting questions and threads
 
- - <a href="https://stackoverflow.com/questions/49081942/why-doesnt-python3s-print-statement-flush-output-when-end-keyword-is-specified">Why doesn't python3's print statement flush output when end keyword is specified?
+* <a href="https://stackoverflow.com/questions/49081942/why-doesnt-python3s-print-statement-flush-output-when-end-keyword-is-specified">Why doesn't python3's print statement flush output when end keyword is specified?
 </a>
 
-    ```
-    print("Rewinding.......",end = '',flush=True)
-    ```
+
+        print("Rewinding.......",end = '',flush=True)

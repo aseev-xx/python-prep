@@ -7,11 +7,12 @@ Sometimes I will remove links from here that mistakenly look good to me.
 
 In the future, I hopefully mark every link according to the degree of complexity of the material (low, medium, hard)
 
+
 ### Books
 
 #### Python
 
-<a href="https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008">Fluent Python: Clear, Concise, and Effective Programming</a>
+[Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 
 #### SRE & DevOps
 
@@ -22,22 +23,23 @@ In the future, I hopefully mark every link according to the degree of complexity
 [Алгоритмы. Вводный курс](https://www.ozon.ru/context/detail/id/24903185)
 
 
+
 ### Articles
 
 #### Python
 
-<a href="https://vovkd.github.io/gevent-tutorial/">Gevent для практикующего питониста (<a href="http://sdiehl.github.io/gevent-tutorial/">original</a>)</a>
+[Gevent для практикующего питониста](https://vovkd.github.io/gevent-tutorial)
+([original](http://sdiehl.github.io/gevent-tutorial/))
 
-<a href="https://stackabuse.com/overview-of-async-io-in-python-3-7/">Overview of Async IO in Python 3.7</a>
+[Overview of Async IO in Python 3.7](https://stackabuse.com/overview-of-async-io-in-python-3-7/)
 
-<a href="https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/">Python with Context Managers</a> 
+[Python with Context Managers](https://jeffknupp.com/blog/2016/03/07/python-with-context-managers/) 
 
-<a href="https://habr.com/ru/post/432996">Немного внутренностей словарей в CPython (и PyPy)(+ video)</a>
+[Немного внутренностей словарей в CPython (и PyPy)(+ video)](https://habr.com/ru/post/432996)
 
-<a href="https://manikos.github.io/how-pythons-import-machinery-works">How python's import machinery works</a>
+[How python's import machinery works](https://manikos.github.io/how-pythons-import-machinery-works)
 
-<a href="https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage">Python dicts and memory usage</a>
-
+[Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage)
 
 #### SRE & DevOps
 
@@ -50,7 +52,11 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 ### Blogs
 
+[Trey Hunner](https://treyhunner.com/talks/)
+
 [Jeff Knupp. Everything I know about Python...](https://jeffknupp.com/blog)
+
+
 
 ### Youtube
 
@@ -58,12 +64,18 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 [James Powell: So you want to be a Python expert? | PyData Seattle 2017](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
+
+
 ### Quora
 
 #### Prep
 [How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?](https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role)
 
+
+
 ### Stackoverflow
+
+[# python weekly reports](http://python-weekly.blogspot.com/)
 
 Interesting questions and threads
 

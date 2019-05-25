@@ -7,8 +7,14 @@ Sometimes I will remove links from here that mistakenly look good to me.
 
 In the future, I hopefully mark every link according to the degree of complexity of the material (low, medium, hard)
 
+## Documentation
 
-### Books
+#### Python
+
+[asyncio — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
+
+
+## Books
 
 #### Python
 
@@ -24,9 +30,11 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 
 
-### Articles
+## Articles
 
 #### Python
+
+[Object-Oriented Programming in Python 3](https://www.thedigitalcatonline.com/blog/2014/08/20/python-3-oop-part-1-objects-and-types/)
 
 [Gevent для практикующего питониста](https://vovkd.github.io/gevent-tutorial)
 ([original](http://sdiehl.github.io/gevent-tutorial/))
@@ -50,7 +58,9 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 
 
-### Blogs
+## Blogs
+
+[Leonardo Giordani](https://www.thedigitalcatonline.com/index.html)
 
 [Trey Hunner](https://treyhunner.com/talks/)
 
@@ -58,7 +68,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 
 
-### Youtube
+## Youtube
 
 [Олег Молчанов](https://www.youtube.com/user/zaemiel)
 
@@ -66,14 +76,14 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 
 
-### Quora
+## Quora
 
 #### Prep
 [How should I prepare for my Google interview if I have 1 month left and I’m applying for a software engineer role?](https://www.quora.com/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left-and-I%E2%80%99m-applying-for-a-software-engineer-role)
 
 
 
-### Stackoverflow
+## Stackoverflow
 
 [# python weekly reports](http://python-weekly.blogspot.com/)
 

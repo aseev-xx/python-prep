@@ -13,6 +13,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 [asyncio — Asynchronous I/O](https://docs.python.org/3/library/asyncio.html)
 
+[memory_profiler](https://github.com/pythonprofilers/memory_profiler)
+
 
 ## Books
 

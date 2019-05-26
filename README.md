@@ -79,6 +79,20 @@ In the future, I hopefully mark every link according to the degree of complexity
 [Python OOP Tutorials - Working with Classes (series)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 
+## Github
+
+[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 
+(A complete computer science study plan to become a software engineer.)
+
+[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+(All Algorithms implemented in Python)
+
+[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)
+(Python - 100天从新手到大师)
+
+[dufferzafar/geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf/releases)
+(Topic wise PDFs of Geeks for Geeks articles.)
+
 
 ## Quora
 

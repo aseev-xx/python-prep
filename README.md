@@ -76,6 +76,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 [James Powell: So you want to be a Python expert? | PyData Seattle 2017](https://www.youtube.com/watch?v=cKPlPJyQrt4)
 
+[Python OOP Tutorials - Working with Classes (series)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+
 
 
 ## Quora

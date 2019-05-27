@@ -84,6 +84,9 @@ In the future, I hopefully mark every link according to the degree of complexity
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 
 (A complete computer science study plan to become a software engineer.)
 
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+(Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.)
+
 [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 (All Algorithms implemented in Python)
 
@@ -112,3 +115,8 @@ Interesting questions and threads
 
 
         print("Rewinding.......",end = '',flush=True)
+
+
+## Courses
+
+[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp)

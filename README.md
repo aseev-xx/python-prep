@@ -116,6 +116,10 @@ Interesting questions and threads
 
         print("Rewinding.......",end = '',flush=True)
 
+* [What is the best algorithm for checking if a number is prime?](https://stackoverflow.com/questions/1801391/what-is-the-best-algorithm-for-checking-if-a-number-is-prime)
+        
+        fact that a prime (except 2 and 3) is of form 6k - 1 or 6k + 1 and looks only at divisors of this form.
+
 
 ## Courses
 

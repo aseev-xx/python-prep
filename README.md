@@ -57,6 +57,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Hacking the Software Engineer Interview](https://puncsky.com/hacking-the-software-engineer-interview)
 
+* [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
 
 ## Medium
 * [4 Ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)

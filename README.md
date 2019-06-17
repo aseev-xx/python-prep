@@ -59,6 +59,11 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
+* About message queues
+  * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
+  * [Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
+  * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
+
 
 ## Medium
 * [4 Ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)
@@ -71,6 +76,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [Trey Hunner](https://treyhunner.com/talks/)
 
 * [Jeff Knupp. Everything I know about Python...](https://jeffknupp.com/blog)
+
+* [BRAVE NEW GEEK](https://bravenewgeek.com/)
 
 
 

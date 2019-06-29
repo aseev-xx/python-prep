@@ -136,3 +136,9 @@ Interesting questions and threads
 ## Courses
 
 * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp)
+
+* [Специализация Python для всех](https://www.coursera.org/specializations/python)
+
+* [Сертификация специалиста по ИТ-поддержке Google](https://www.coursera.org/specializations/google-it-support)
+
+* [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/)

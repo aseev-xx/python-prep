@@ -51,6 +51,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Python dicts and memory usage](https://lerner.co.il/2019/05/12/python-dicts-and-memory-usage)
 
+* [Difference between list, set and tuples in Python and more such comparisons](https://www.pythoncircle.com/post/249/difference-between-list-set-and-tuples-in-python-and-more-such-comparisons/)
+
 #### SRE & DevOps
 
 * [Preparing the SRE interview (Balthazar)](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)

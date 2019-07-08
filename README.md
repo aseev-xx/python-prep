@@ -110,6 +110,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [dufferzafar/geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf/releases)
 (Topic wise PDFs of Geeks for Geeks articles.)
 
+* [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
+(How Web Works)
 
 ## Quora
 
@@ -144,3 +146,5 @@ Interesting questions and threads
 * [Сертификация специалиста по ИТ-поддержке Google](https://www.coursera.org/specializations/google-it-support)
 
 * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/)
+
+* [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)

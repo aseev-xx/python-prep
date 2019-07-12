@@ -30,6 +30,10 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Алгоритмы. Вводный курс](https://www.ozon.ru/context/detail/id/24903185)
 
+#### Other
+
+* [Library Genesis](http://www.libgen.is/)
+
 
 
 ## Articles

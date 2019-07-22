@@ -142,6 +142,11 @@ Interesting questions and threads
         fact that a prime (except 2 and 3) is of form 6k - 1 or 6k + 1 and looks only at divisors of this form.
 
 
+## Slideshare
+
+* [Scalability, Availability & Stability Patterns](https://www.slideshare.net/mobile/jboner/scalability-availability-stability-patterns/)
+
+
 ## Courses
 
 * [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/complete-python-bootcamp)

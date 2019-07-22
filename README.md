@@ -70,6 +70,7 @@ In the future, I hopefully mark every link according to the degree of complexity
   * [Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 
+* [The principle of LevelDb analysis](https://www.programering.com/a/MjMyMTNwATQ.html)
 
 ## Medium
 * [4 Ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)

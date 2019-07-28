@@ -15,12 +15,18 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [python debugging and profiling](https://docs.python.org/3.6/library/debug.html), [memory_profiler](https://github.com/pythonprofilers/memory_profiler)
 
+* [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
+
 
 ## Books
 
 #### Python
 
 * [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+
+* [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/gp/product/0134076435)
+  
+  [Программирование на языке Python. Учебный курс](https://www.ozon.ru/context/detail/id/138259431/) (Роберт Седжвик )
 
 #### SRE & DevOps
 

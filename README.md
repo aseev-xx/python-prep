@@ -78,9 +78,12 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [The principle of LevelDb analysis](https://www.programering.com/a/MjMyMTNwATQ.html)
 
+* [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
+
 #### Algorithm
 
 * [Система непересекающихся множеств](https://e-maxx.ru/algo/dsu )
+  * [Disjoint Sets Tutorial](https://helloacm.com/disjoint-sets/)
 
 ## Medium
 * [4 Ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)

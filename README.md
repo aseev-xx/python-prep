@@ -188,3 +188,5 @@ Interesting questions and threads
 ## Databases
 
 * [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
+
+* [PostgreSQL. Учебные курсы](https://postgrespro.ru/education/courses)

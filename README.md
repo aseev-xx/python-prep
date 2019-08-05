@@ -18,6 +18,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/)
 
 
+
 ## Books
 
 #### Python
@@ -80,14 +81,19 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
 
-#### Algorithm
+#### Algorithm & Data structure
 
-* [Система непересекающихся множеств](https://e-maxx.ru/algo/dsu )
+* Disjoint
+  * [Система непересекающихся множеств](https://e-maxx.ru/algo/dsu )
   * [Disjoint Sets Tutorial](https://helloacm.com/disjoint-sets/)
   * [Basics of Disjoint Data Structures](https://www.hackerearth.com/ru/practice/data-structures/disjoint-data-strutures/basics-of-disjoint-data-structures/tutorial/)
 
+* Stack
+  * 
+
 ## Medium
 * [4 Ways to manage the configuration in Python](https://hackernoon.com/4-ways-to-manage-the-configuration-in-python-4623049e841b)
+
 
 
 ## Blogs
@@ -112,6 +118,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [Python OOP Tutorials - Working with Classes (series)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 
+
 ## Github
 
 * [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) 
@@ -133,6 +140,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 (How Web Works)
 
 * [Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
+
+
 
 ## Quora
 
@@ -174,3 +183,8 @@ Interesting questions and threads
 * [The Python Mega Course: Build 10 Real World Applications](https://www.udemy.com/the-python-mega-course/)
 
 * [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
+
+
+## Databases
+
+* [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)

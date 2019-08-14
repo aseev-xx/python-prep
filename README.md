@@ -64,6 +64,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Difference between list, set and tuples in Python and more such comparisons](https://www.pythoncircle.com/post/249/difference-between-list-set-and-tuples-in-python-and-more-such-comparisons/)
 
+* [Работа со структурами данных в языках Си и Python](https://www.ibm.com/developerworks/ru/library/l-data_structures_01/)
+
 #### SRE & DevOps
 
 * [Preparing the SRE interview (Balthazar)](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)

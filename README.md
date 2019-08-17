@@ -27,7 +27,10 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Introduction to Programming in Python: An Interdisciplinary Approach](https://www.amazon.com/gp/product/0134076435)
   
-  [Программирование на языке Python. Учебный курс](https://www.ozon.ru/context/detail/id/138259431/) (Роберт Седжвик )
+* [Программирование на языке Python. Учебный курс](https://www.ozon.ru/context/detail/id/138259431/) (Роберт Седжвик )
+
+* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read#leanpub-auto-introduction)
+
 
 #### SRE & DevOps
 

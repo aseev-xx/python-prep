@@ -108,6 +108,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [BRAVE NEW GEEK](https://bravenewgeek.com/)
 
+* [Brandon Skerritt](https://skerritt.blog/) - I write about obscure computer science topics that are extremely interesting
+
 
 
 ## Youtube

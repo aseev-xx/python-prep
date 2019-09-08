@@ -201,3 +201,5 @@ Interesting questions and threads
 ## WWW
 
 * [Stack Abuse](https://stackabuse.com)
+
+* [Real Python](https://realpython.com)

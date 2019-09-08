@@ -197,3 +197,7 @@ Interesting questions and threads
 * [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
 
 * [PostgreSQL. Учебные курсы](https://postgrespro.ru/education/courses)
+
+## WWW
+
+* [Stack Abuse](https://stackabuse.com)

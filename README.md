@@ -71,6 +71,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 #### SRE & DevOps
 
+* [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)
+
 * [Preparing the SRE interview (Balthazar)](https://blog.balthazar-rouberol.com/preparing-the-sre-interview)
 
 * [Hacking the Software Engineer Interview](https://puncsky.com/hacking-the-software-engineer-interview)

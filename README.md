@@ -69,6 +69,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Работа со структурами данных в языках Си и Python](https://www.ibm.com/developerworks/ru/library/l-data_structures_01/)
 
+* [Multiprocessing vs. Threading in Python: What Every Data Scientist Needs to Know](https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know/)
+
 #### SRE & DevOps
 
 * [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)

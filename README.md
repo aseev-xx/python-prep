@@ -126,6 +126,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Python OOP Tutorials - Working with Classes (series)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
+* [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 
 
 ## Github

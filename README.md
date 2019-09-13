@@ -31,6 +31,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read#leanpub-auto-introduction)
 
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+
 
 #### SRE & DevOps
 

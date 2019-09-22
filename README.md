@@ -73,6 +73,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Multiprocessing vs. Threading in Python: What Every Data Scientist Needs to Know](https://blog.floydhub.com/multiprocessing-vs-threading-in-python-what-every-data-scientist-needs-to-know/)
 
+* [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
+
 #### SRE & DevOps
 
 * [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)

@@ -162,7 +162,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [vasanthk/how-web-works](https://github.com/vasanthk/how-web-works)
 (How Web Works)
 
-* [Site Reliability Engineer (SRE) Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
+* [VadimPushtaev/applied-python](https://github.com/VadimPushtaev/applied-python)
 
 
 

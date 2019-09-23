@@ -35,6 +35,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Learning with Python 3 (RLE)](http://openbookproject.net/thinkcs/python/english3e/index.html)
 
+
 #### SRE & DevOps
 
 * [Google: Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html)
@@ -77,6 +78,9 @@ In the future, I hopefully mark every link according to the degree of complexity
 * [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 
 * [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
+
+* [Understanding Class Inheritance in Python 3](https://www.digitalocean.com/community/tutorials/understanding-class-inheritance-in-python-3)
+
 
 #### SRE & DevOps
 

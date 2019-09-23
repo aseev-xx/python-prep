@@ -33,6 +33,7 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 
+* [Learning with Python 3 (RLE)](http://openbookproject.net/thinkcs/python/english3e/index.html)
 
 #### SRE & DevOps
 

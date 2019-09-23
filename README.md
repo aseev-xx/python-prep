@@ -75,6 +75,8 @@ In the future, I hopefully mark every link according to the degree of complexity
 
 * [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/)
 
+* [Pointers in Python: What's the Point?](https://realpython.com/pointers-in-python/)
+
 #### SRE & DevOps
 
 * [Analyzing Your File System and Folder Structures with Python](https://janakiev.com/blog/python-filesystem-analysis/)

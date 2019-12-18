@@ -208,6 +208,8 @@ Interesting questions and threads
 
 ## Databases
 
+* [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
+
 * [Как работает реляционная БД](https://habr.com/ru/company/mailru/blog/266811/)
 
 * [PostgreSQL. Учебные курсы](https://postgrespro.ru/education/courses)
